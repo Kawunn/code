@@ -1,7 +1,7 @@
 {
-  "name": "discord-turkce-muzik-bot-master",
+  "name": "Node",
   "version": "1.0.0",
-  "description": "Github'da yayınlanan ilk ve tek, Türkçe müzik botu.",
+  "description": "Türkçe kodlama botu.",
   "main": "bot.js",
   "scripts": {
     "test": "yarn build && yarn start",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Serhann/discord-turkce-muzik-bot/"
+    "url": "https://github.com/Kawunn/code/"
   },
   "keywords": [
     "türkçe",
@@ -19,7 +19,7 @@
     "müzik",
     "bot"
   ],
-  "author": "Serhann",
+  "author": "Kawunn",
   "license": "MIT",
   "dependencies": {
     "@discordjs/opus": "^0.4.0",
